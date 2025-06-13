@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McpGifts.Web", "McpGifts.Web\McpGifts.Web.csproj", "{000FBE05-67BA-4495-8BFB-989121F3D622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McpGifts.Cli", "McpGifts.Cli\McpGifts.Cli.csproj", "{B358B5FA-5CCC-4E6F-AAF3-AE866833A325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000FBE05-67BA-4495-8BFB-989121F3D622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000FBE05-67BA-4495-8BFB-989121F3D622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000FBE05-67BA-4495-8BFB-989121F3D622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000FBE05-67BA-4495-8BFB-989121F3D622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B358B5FA-5CCC-4E6F-AAF3-AE866833A325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B358B5FA-5CCC-4E6F-AAF3-AE866833A325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B358B5FA-5CCC-4E6F-AAF3-AE866833A325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B358B5FA-5CCC-4E6F-AAF3-AE866833A325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
